@@ -31,6 +31,5 @@ I am CaioWF, currently pursuing a bachelor's degree in software engineering at [
 </p>
 
 ## ⚡ GitHub Stats
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=CaioWF&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/CaioWF)
 <img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CaioWF&show_icons=true&hide_border=true" />
 
