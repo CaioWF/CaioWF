@@ -2,7 +2,7 @@
 
 I am CaioWF, currently pursuing a bachelor's degree in software engineering at [Federal University of Ceará] (http://www.ufc.br/). I am a technology enthusiast. I am always open to collaborating on innovative projects and ideas.
 
-## Find me on :
+## 🔎 Find me on :
 [![Gmail Badge](https://img.shields.io/badge/-contato.caioweliton@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato.caioweliton@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Weliton-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-weliton/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@caio_weliton-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/caio_weliton "Contact on Telegram")
