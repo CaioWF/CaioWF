@@ -1,6 +1,6 @@
 ## It is a pleasure to see you here! 👋
 
-I am CaioWF, currently pursuing a bachelor's degree in software engineering at [Federal University of Ceará] (http://www.ufc.br/). I am a technology enthusiast. I am always open to collaborating on innovative projects and ideas.
+I am CaioWF, currently pursuing a bachelor's degree in software engineering at [Federal University of Ceará] (http://www.ufc.br/). I am a technology enthusiast and I am always open to collaborating on innovative projects and ideas.
 
 ## 🛠 Skills
 
