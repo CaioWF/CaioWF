@@ -9,21 +9,19 @@ I am CaioWF, currently pursuing a bachelor's degree in software engineering at [
 
 ## 🛠 Skills
 
-<p><b>Languages:</b><br>
+<p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" /><br>
-<b>Frameworks:</b><br>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
   <img alt="Express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square" />
   <img alt="Node" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&textColor=white" /><br>
-<b>Tools:</b><br>
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />  
   <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
