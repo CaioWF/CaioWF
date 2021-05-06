@@ -28,7 +28,7 @@ I am CaioWF, currently pursuing a bachelor's degree in software engineering at [
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Weliton-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-weliton/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@caio_weliton-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/caio_weliton "Contact on Telegram")
 
-## ⚡ GitHub Stats
+<!--## ⚡ GitHub Stats
 <img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CaioWF&show_icons=true&hide_border=true" />
-<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java&hide_border=true" />
+<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java&hide_border=true" />-->
 
