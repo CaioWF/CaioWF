@@ -32,3 +32,8 @@ I am CaioWF, currently pursuing a bachelor's degree in software engineering at [
 <img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CaioWF&show_icons=true&hide_border=true" />
 <img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java&hide_border=true" />-->
 
+##
+
+ ![Snake animation](https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg)
+
+##
