@@ -1,6 +1,6 @@
-## It is a pleasure to see you here! 👋
+## 👋 It's a pleasure to see you here visitor <img align="center" alt="Visitor's number" src="https://profile-counter.glitch.me/CaioWF/count.svg" />!
 
-I am CaioWF, currently pursuing a bachelor's degree in software engineering at [Federal University of Ceará] (http://www.ufc.br/). I am a technology enthusiast and I am always open to collaborating on innovative projects and ideas.
+I'm CaioWF, graduated in Software Engineering from [Federal University of Ceará](https://www.ufc.br). I'm a technology enthusiast and I'm always open to collaborating on innovative projects and ideas.
 
 ## 🛠 Skills
 
@@ -23,17 +23,16 @@ I am CaioWF, currently pursuing a bachelor's degree in software engineering at [
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
 </p>
 
-## 🔎 Find me on :
+## 🔎 Find me on
 [![Gmail Badge](https://img.shields.io/badge/-contato.caioweliton@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato.caioweliton@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Weliton-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-weliton/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@caio_weliton-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/caio_weliton "Contact on Telegram")
 
-<!--## ⚡ GitHub Stats
-<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CaioWF&show_icons=true&hide_border=true" />
-<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java&hide_border=true" />-->
+## ⚡ GitHub Stats
 
-##
+<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CaioWF&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java&hide_border=true&layout=compact&langs_count=7&theme=dracula" /><br/><br/><br/><br/><br/><br/><br/><br/>
 
- ![Snake animation](https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg)
+## 📅 My Contribution Calendar (Snake Game Version) 🐍
 
-##
+<img alt="Contribution animated" src="https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg" />
