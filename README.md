@@ -1,8 +1,13 @@
-## 👋 It's a pleasure to see you here visitor <img align="center" alt="Visitor's number" src="https://profile-counter.glitch.me/CaioWF/count.svg" />!
+<h1 align="center">
+  👋 It's a pleasure to see you here visitor <img align="center" alt="Visitor's number" src="https://profile-counter.glitch.me/CaioWF/count.svg" />!
+</h1>
 
-I'm CaioWF, graduated in Software Engineering from [Federal University of Ceará](https://www.ufc.br). I'm a technology enthusiast and I'm always open to collaborating on innovative projects and ideas.
+<p align="center">
+  I'm CaioWF, graduated in Software Engineering from <a href="https://www.ufc.br">Federal University of Ceará</a>. I'm a technology enthusiast and I'm always open to collaborating on innovative projects and ideas.
+</p>
 
-## 🛠 Skills
+
+<!--## 🛠 Skills
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
@@ -21,18 +26,38 @@ I'm CaioWF, graduated in Software Engineering from [Federal University of Ceará
   <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />  
   <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
+</p>-->
+
+<h1 align="center">
+  🔎 Find me on
+</h1>
+<p align="center">
+  <a href="mailto:contato.caioweliton@gmail.com">
+    <img alt="Connect via Email" src="https://img.shields.io/badge/-contato.caioweliton@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/caio-weliton">
+    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-Caio%20Weliton-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/caio_weliton">
+    <img alt="Contact on Telegram" src="https://img.shields.io/badge/-@caio_weliton-0088CC?style=flat&logo=Telegram&logoColor=white" />
+  </a>
 </p>
 
-## 🔎 Find me on
-[![Gmail Badge](https://img.shields.io/badge/-contato.caioweliton@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato.caioweliton@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Caio%20Weliton-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-weliton/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@caio_weliton-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/caio_weliton "Contact on Telegram")
+<h1 align="center">
+  ⚡ GitHub Stats
+</h1>
 
-## ⚡ GitHub Stats
+<p align="center">
+  <img align="center" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CaioWF&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+</p>
+<p align="center">
+  <img align="center" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java&hide_border=true&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
-<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CaioWF&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
-<img align="left" alt="CaioWF's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java&hide_border=true&layout=compact&langs_count=7&theme=dracula" /><br/><br/><br/><br/><br/><br/><br/><br/>
+<h1 align="center">
+  📅 My Contribution Calendar (Snake Game Version) 🐍
+</h1>
 
-## 📅 My Contribution Calendar (Snake Game Version) 🐍
-
-<img alt="Contribution animated" src="https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img alt="Contribution animated" src="https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg" />
+</p>
