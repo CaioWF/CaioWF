@@ -33,6 +33,8 @@
 - ❤️ Hobbies: 💻 watching movies, series and animes, 🎶 listening to music, 🎮 playing video games.
 - ⚡ Fun fact: I spend a lot of time just looking at online catalogs.
 
+<br/>
+
 <div align="left">
   <h4 align="center">My favorite phrase:</h4>
   
@@ -41,7 +43,6 @@
   </h6>
 </div>
 
-<br/>
 <br/>
 <br/>
 
