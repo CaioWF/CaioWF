@@ -45,7 +45,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h1 align="center">
   Estatísticas do GitHub <img align="center" alt="Todos os direitos reservados à Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/ClearPartialDoctorfish.webp" width="32px">
