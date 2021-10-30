@@ -14,12 +14,14 @@
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2d7dd6126487093.612e6d62bd8ee.gif" alt="All rights reserved to Aliz Rátkai (https://www.behance.net/kirokaze)" width="290" height="470" />
 
-<!--<h6>
-<table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="readme_es.md">Español</a></td></tr>
-</table>
-</h6>-->
+<div align="left">
+  <h4 align="center">
+    View in:
+    <kbd>
+      <a href="README.md" title="English">🇺🇸</a> | <a href="README_PT_BR.md" title="Brazilian Portuguese">🇧🇷</a>
+    </kbd>
+  </h4>
+</div>
 
 - 🙋‍♂️ My name is Caio Weliton.
 - 🎓 I'm graduated in Software Engineering at <a href="https://www.ufc.br">Federal University of Ceará</a>.
@@ -30,8 +32,6 @@
 - 😄 Pronouns: Him/His.
 - ❤️ Hobbies: 💻 watching movies, series and animes, 🎶 listening to music, 🎮 playing video games.
 - ⚡ Fun fact: I spend a lot of time just looking at online catalogs.
-
-<br/>
 
 <div align="left">
   <h4 align="center">My favorite phrase:</h4>
