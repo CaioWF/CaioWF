@@ -77,3 +77,18 @@
 <p align="center">
   <img alt="Contribution animated" src="https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+<h1 align="center">
+  More aboute me <img align="center" alt="All rights reserved to Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/AliveGrouchyAmericanrobin.webp" width="48px">
+</h1>
+
+<p align="center">
+  <img alt="QRCode for my resume" src="https://i.imgur.com/BSNbgCy.png" />
+</p>
+<p align="center"> or </p>
+<p align="center">
+  <a href="https://www.caioweliton.me">
+    <img alt="My website" src="https://img.shields.io/badge/my--resume-www.caioweliton.me-blue" />
+  </a>
+</p>
+
