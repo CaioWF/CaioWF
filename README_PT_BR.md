@@ -25,7 +25,7 @@
 
 - 🙋‍♂️ Meu nome é Caio Weliton.
 - 🎓 Sou formado em Engenharia de Software pela <a href="https://www.ufc.br">Universidade Federal do Ceará</a>.
-- 🔭 Atualmente estou trabalhando como Desenvolvedor de Software em [Casa Magalhães](https://github.com/casamagalhaes).
+- 🔭 Atualmente estou trabalhando como Desenvolvedor de Software em [Compass.uol](https://compass.uol).
 - 🌱 Estou aprendendo sobre Amazon Web Services e Clean Architecture.
 - 👨‍💻 Sou um entusiasta da tecnologia e estou sempre aberto a colaborar em projetos e ideias inovadoras.
 - 💬 Pergunte-me sobre `[Git, Node, Typescript, Vue, Javascript, Docker]`.
