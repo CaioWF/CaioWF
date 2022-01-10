@@ -25,7 +25,7 @@
 
 - 🙋‍♂️ My name is Caio Weliton.
 - 🎓 I'm graduated in Software Engineering at <a href="https://www.ufc.br">Federal University of Ceará</a>.
-- 🔭 I’m currently working as Software Delevoper at [Casa Magalhães](https://github.com/casamagalhaes).
+- 🔭 I’m currently working as Software Delevoper at [Compass.uol](https://compass.uol).
 - 🌱 I’m learning about Amazon Web Services and Clean Architecture.
 - 👨‍💻 I'm a technology enthusiast and I'm always open to collaborating on innovative projects and ideas.
 - 💬 Ask me about `[Git, Node, Typescript, Vue, Javascript, Docker]`.
