@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <p align="center">
-    Hi there! It's a pleasure to see you here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px">
+    Hi there! It's a pleasure to see you here! <img align="center" alt="All rights reserved to Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/BlackWhichCatfish.webp" width="48px">
   </p>
   <img align="right" src="https://komarev.com/ghpvc/?username=CaioWF&color=blueviolet" alt="CaioWF profile views" />
   <!-- add to portugues &label=Número+de+visitantes-->
