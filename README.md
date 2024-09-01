@@ -4,10 +4,9 @@
 
 <h1 align="center">
   <p align="center">
-    Hi there! It's a pleasure to see you here! <img align="center" alt="All rights reserved to Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/BlackWhichCatfish.webp" width="48px">
+    Hi there! It's a pleasure to see you here! <img alt="All rights reserved to iampavangandhi (https://github.com/iampavangandhi)" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px">
   </p>
   <img align="right" src="https://komarev.com/ghpvc/?username=CaioWF&color=blueviolet" alt="CaioWF profile views" />
-  <!-- add to portugues &label=Número+de+visitantes-->
 </h1>
 
 <br/>
@@ -25,12 +24,13 @@
 
 - 🙋‍♂️ My name is Caio Weliton.
 - 🎓 I'm graduated in Software Engineering at <a href="https://www.ufc.br">Federal University of Ceará</a>.
-- 🔭 I’m currently working as Software Delevoper at [Compass.uol](https://compass.uol).
-- 🌱 I’m learning about Amazon Web Services and Clean Architecture.
+- 👨🏻‍🎓 I'm currently studying a postgraduate degree in Technical Leadership at <a href="https://faculdadefullcycle.edu.br">Full Cycle Faculty of Technology</a>.
+- 🔭 I’m currently working as Senior Software Delevoper at [Compass.uol](https://compass.uol).
+- 🌱 I’m learning about cloud computing (especially AWS) and Clean Architecture.
 - 👨‍💻 I'm a technology enthusiast and I'm always open to collaborating on innovative projects and ideas.
-- 💬 Ask me about `[Git, Node, Typescript, Vue, Javascript, Docker]`.
+- 💬 Ask me about `[Git, Node, Typescript, Vue, Javascript, Docker, AWS]`.
 - 😄 Pronouns: Him/His.
-- ❤️ Hobbies: 💻 watching movies, series and animes, 🎶 listening to music, 🎮 playing video games.
+- ❤️ Hobbies: 💻 watching movies, series and animes, 🎶 listening to music, 🎮 playing video games and ⚽ watching soccer.
 - ⚡ Fun fact: I spend a lot of time just looking at online catalogs.
 
 <br/>
@@ -45,9 +45,10 @@
 
 <br/>
 <br/>
+<br/>
 
 <h1 align="center">
-  GitHub Stats <img align="center" alt="All rights reserved to Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/ClearPartialDoctorfish.webp" width="32px">
+  GitHub Stats <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/I0w9VW2gaL8AAAAi/lightning-bolt-thunder.gif" width="32px">
 </h1>
 
 <div align="center">
@@ -55,8 +56,10 @@
   <img height="160em" alt="CaioWF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java,objective-c&hide_border=true&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
+<br/>
+
 <h1 align="center">
-  Find me on <img align="center" alt="All rights reserved to Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/BigheartedUnsungDormouse.webp" width="32px">
+  Find me on <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/S8dOItPNscgAAAAi/loop-loading.gif" width="32px">
 </h1>
 <p align="center">
   <a href="mailto:contato.caioweliton@gmail.com">
@@ -70,16 +73,20 @@
   </a>
 </p>
 
+<br/>
+
 <h1 align="center">
-  My Contribution Calendar (Snake Game Version) <img align="center" alt="All rights reserved to Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/PhonyPleasingDunnart.webp" width="48px">
+  My Contribution Calendar (Snake Game Version) <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/CZ9n27PNIqAAAAAi/calendario-calendar.gif" width="48px">
 </h1>
 
 <p align="center">
   <img alt="Contribution animated" src="https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+<br/>
+
 <h1 align="center">
-  More aboute me <img align="center" alt="All rights reserved to Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/AliveGrouchyAmericanrobin.webp" width="48px">
+  More aboute me <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="48px">
 </h1>
 
 <p align="center">
