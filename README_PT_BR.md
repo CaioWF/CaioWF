@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <p align="center">
-    Olá! É um prazer vê-lo aqui! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px">
+    Olá! É um prazer vê-lo aqui! <img alt="Todos os direitos reservados à iampavangandhi (https://github.com/iampavangandhi)" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px">
   </p>
   <img align="right" src="https://komarev.com/ghpvc/?username=CaioWF&color=blueviolet&label=Número+de+visitantes" alt="Número de visitantes do perfil CaioWF" />
 </h1>
@@ -25,12 +25,13 @@
 
 - 🙋‍♂️ Meu nome é Caio Weliton.
 - 🎓 Sou formado em Engenharia de Software pela <a href="https://www.ufc.br">Universidade Federal do Ceará</a>.
-- 🔭 Atualmente estou trabalhando como Desenvolvedor de Software em [Compass.uol](https://compass.uol).
-- 🌱 Estou aprendendo sobre Amazon Web Services e Clean Architecture.
+- 👨🏻‍🎓 Estou cursando pós-graduação em Liderança Técnica na <a href="https://faculdadefullcycle.edu.br">Faculdade Full Cycle de Tecnologia</a>.
+- 🔭 Atualmente estou trabalhando como Desenvolvedor de Software Sênior na [Compass.uol](https://compass.uol).
+- 🌱 Estou aprendendo sobre computação em nuvem (especialmente AWS) e Clean Architecture.
 - 👨‍💻 Sou um entusiasta da tecnologia e estou sempre aberto a colaborar em projetos e ideias inovadoras.
-- 💬 Pergunte-me sobre `[Git, Node, Typescript, Vue, Javascript, Docker]`.
+- 💬 Pergunte-me sobre `[Git, Node, Typescript, Vue, Javascript, Docker, AWS]`.
 - 😄 Pronomes: Ele / Seu.
-- ❤️ Hobbies: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 🎮 jogar videogame.
+- ❤️ Hobbies: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 🎮 jogar videogame e assitir futebol.
 - ⚡ Fato engraçado: Eu passo muito tempo apenas olhando catálogos online.
 
 <br/>
@@ -45,9 +46,10 @@
 
 <br/>
 <br/>
+<br/>
 
 <h1 align="center">
-  Estatísticas do GitHub <img align="center" alt="Todos os direitos reservados à Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/ClearPartialDoctorfish.webp" width="32px">
+  Estatísticas do GitHub <img align="center" alt="Todos os direitos reservados à Tenor (https://tenor.com)" src="https://media.tenor.com/I0w9VW2gaL8AAAAi/lightning-bolt-thunder.gif" width="32px">
 </h1>
 
 <div align="center">
@@ -55,8 +57,10 @@
   <img height="160em" alt="CaioWF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java,objective-c&hide_border=true&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
+<br/>
+
 <h1 align="center">
-  Encontre me em <img align="center" alt="Todos os direitos reservados à Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/BigheartedUnsungDormouse.webp" width="32px">
+  Encontre me em <img align="center" alt="Todos os direitos reservados à Tenor (https://tenor.com)" src="https://media.tenor.com/S8dOItPNscgAAAAi/loop-loading.gif" width="32px">
 </h1>
 <p align="center">
   <a href="mailto:contato.caioweliton@gmail.com">
@@ -70,16 +74,20 @@
   </a>
 </p>
 
+<br/>
+
 <h1 align="center">
-  Meu calendário de contribuições (versão do jogo da cobrinha) <img align="center" alt="Todos os direitos reservados à Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/PhonyPleasingDunnart.webp" width="48px">
+  Meu calendário de contribuições (versão do jogo da cobrinha) <img align="center" alt="Todos os direitos reservados à Tenor (https://tenor.com)" src="https://media.tenor.com/CZ9n27PNIqAAAAAi/calendario-calendar.gif" width="48px">
 </h1>
 
 <p align="center">
   <img alt="Calendário de contribuições animado" src="https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+<br/>
+
 <h1 align="center">
-  Mais sobre mim <img align="center" alt="Todos os direitos reservados à Animated Stickers (http://gfycat.com/stickers)" src="https://thumbs.gfycat.com/AliveGrouchyAmericanrobin.webp" width="48px">
+  Mais sobre mim <img align="center" alt="Todos os direitos reservados à Tenor (https://tenor.com)" src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="48px">
 </h1>
 
 <p align="center">
