@@ -91,7 +91,7 @@
 </h1>
 
 <p align="center">
-  <img alt="QRCode para meu currículo" src="https://i.imgur.com/Zmv8qvR.png" />
+  <img alt="QRCode para meu currículo" src="https://i.imgur.com/Zmv8qvR.png"  width="200px"/>
 </p>
 <p align="center"> ou </p>
 <p align="center">
