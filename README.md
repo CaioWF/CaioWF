@@ -90,12 +90,12 @@
 </h1>
 
 <p align="center">
-  <img alt="QRCode for my resume" src="https://i.imgur.com/BSNbgCy.png" />
+  <img alt="QRCode for my resume" src="https://i.imgur.com/Zmv8qvR.png" />
 </p>
 <p align="center"> or </p>
 <p align="center">
-  <a href="https://www.caioweliton.me">
-    <img alt="My website" src="https://img.shields.io/badge/my--resume-www.caioweliton.me-blue" />
+  <a href="https://www.caioweliton.dev">
+    <img alt="My website" src="https://img.shields.io/badge/my--resume-www.caioweliton.dev-blue" />
   </a>
 </p>
 

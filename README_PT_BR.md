@@ -91,11 +91,11 @@
 </h1>
 
 <p align="center">
-  <img alt="QRCode para meu currículo" src="https://i.imgur.com/BSNbgCy.png" />
+  <img alt="QRCode para meu currículo" src="https://i.imgur.com/Zmv8qvR.png" />
 </p>
 <p align="center"> ou </p>
 <p align="center">
-  <a href="https://www.caioweliton.me">
-    <img alt="Meu site" src="https://img.shields.io/badge/meu--curr%C3%ADculo-www.caioweliton.me-blue" />
+  <a href="https://www.caioweliton.dev">
+    <img alt="Meu site" src="https://img.shields.io/badge/meu--curr%C3%ADculo-www.caioweliton.dev-blue" />
   </a>
 </p>
