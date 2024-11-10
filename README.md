@@ -90,7 +90,7 @@
 </h1>
 
 <p align="center">
-  <img alt="QRCode for my resume" src="https://i.imgur.com/Zmv8qvR.png" width="200px"/>
+  <img alt="QRCode for my resume" src="https://i.imgur.com/LrsH7s5.png" width="200px"/>
 </p>
 <p align="center"> or </p>
 <p align="center">
