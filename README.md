@@ -22,16 +22,16 @@
   </h4>
 </div>
 
-- 🙋‍♂️ My name is Caio Weliton.
-- 🎓 I'm graduated in Software Engineering at <a href="https://www.ufc.br">Federal University of Ceará</a>.
-- 👨🏻‍🎓 I'm currently studying a postgraduate degree in Technical Leadership at <a href="https://faculdadefullcycle.edu.br">Full Cycle Faculty of Technology</a>.
-- 🔭 I’m currently working as Senior Software Developer at [Compass.uol](https://compass.uol).
-- 🌱 I’m learning about cloud computing (especially AWS) and Clean Architecture.
-- 👨‍💻 I'm a technology enthusiast and I'm always open to collaborating on innovative projects and ideas.
-- 💬 Ask me about `[Git, Node, Typescript, Vue, Javascript, Docker, AWS]`.
-- 😄 Pronouns: Him/His.
-- ❤️ Hobbies: 💻 watching movies, series and animes, 🎶 listening to music, 🎮 playing video games and ⚽ watching soccer.
-- ⚡ Fun fact: I spend a lot of time just looking at online catalogs.
+- 🙋‍♂️ I'm Caio Weliton, a software engineer from Quixadá, Ceará, Brazil.
+- 🔭 Senior Software Engineer at [Compass UOL](https://compass.uol) — 5+ years building back-ends in Node.js, TypeScript and AWS.
+- ⚙️ I focus on high-concurrency systems, legacy modernization and technical leadership.
+- 🎓 Software Engineering at <a href="https://www.ufc.br">Federal University of Ceará</a>, postgraduate in Technical Leadership at <a href="https://faculdadefullcycle.edu.br">Full Cycle</a>.
+- 🤖 Heavy on AI-assisted engineering: Claude Code, MCP and agentic workflows.
+- 🌱 Currently picking up Go.
+- 💬 Ask me about Node.js, TypeScript, NestJS, AWS, Clean Architecture and high-concurrency back-ends.
+- ✍️ I write about software and AI at [caioweliton.dev/blog](https://www.caioweliton.dev/blog).
+- 😄 Pronouns: He/Him.
+- ❤️ Away from the terminal: cooking, walking and games.
 
 <br/>
 
@@ -98,4 +98,3 @@
     <img alt="My website" src="https://img.shields.io/badge/my--resume-www.caioweliton.dev-blue" />
   </a>
 </p>
-
