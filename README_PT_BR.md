@@ -23,16 +23,16 @@
 </div>
 
 
-- 🙋‍♂️ Meu nome é Caio Weliton.
-- 🎓 Sou formado em Engenharia de Software pela <a href="https://www.ufc.br">Universidade Federal do Ceará</a>.
-- 👨🏻‍🎓 Estou cursando pós-graduação em Liderança Técnica na <a href="https://faculdadefullcycle.edu.br">Faculdade Full Cycle de Tecnologia</a>.
-- 🔭 Atualmente estou trabalhando como Desenvolvedor de Software Sênior na [Compass.uol](https://compass.uol).
-- 🌱 Estou aprendendo sobre computação em nuvem (especialmente AWS) e Clean Architecture.
-- 👨‍💻 Sou um entusiasta da tecnologia e estou sempre aberto a colaborar em projetos e ideias inovadoras.
-- 💬 Pergunte-me sobre `[Git, Node, Typescript, Vue, Javascript, Docker, AWS]`.
-- 😄 Pronomes: Ele / Seu.
-- ❤️ Hobbies: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 🎮 jogar videogame e assistir futebol.
-- ⚡ Fato engraçado: Eu passo muito tempo apenas olhando catálogos online.
+- 🙋‍♂️ Sou o Caio Weliton, engenheiro de software de Quixadá, Ceará.
+- 🔭 Engenheiro de Software Sênior na [Compass UOL](https://compass.uol) — 5+ anos construindo back-ends em Node.js, TypeScript e AWS.
+- ⚙️ Foco em sistemas de alta concorrência, modernização de legado e liderança técnica.
+- 🎓 Engenharia de Software pela <a href="https://www.ufc.br">Universidade Federal do Ceará</a>, pós-graduação em Liderança Técnica na <a href="https://faculdadefullcycle.edu.br">Full Cycle</a>.
+- 🤖 Forte em engenharia assistida por IA: Claude Code, MCP e workflows agênticos.
+- 🌱 Atualmente começando em Go.
+- 💬 Pergunte-me sobre Node.js, TypeScript, NestJS, AWS, Clean Architecture e back-ends de alta concorrência.
+- ✍️ Escrevo sobre software e IA em [caioweliton.dev/blog](https://www.caioweliton.dev/blog).
+- 😄 Pronomes: Ele/Dele.
+- ❤️ Longe do terminal: cozinha, caminhada e games.
 
 <br/>
 
