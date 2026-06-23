@@ -31,7 +31,7 @@
 - 👨‍💻 Sou um entusiasta da tecnologia e estou sempre aberto a colaborar em projetos e ideias inovadoras.
 - 💬 Pergunte-me sobre `[Git, Node, Typescript, Vue, Javascript, Docker, AWS]`.
 - 😄 Pronomes: Ele / Seu.
-- ❤️ Hobbies: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 🎮 jogar videogame e assitir futebol.
+- ❤️ Hobbies: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 🎮 jogar videogame e assistir futebol.
 - ⚡ Fato engraçado: Eu passo muito tempo apenas olhando catálogos online.
 
 <br/>
