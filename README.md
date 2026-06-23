@@ -25,7 +25,7 @@
 - 🙋‍♂️ My name is Caio Weliton.
 - 🎓 I'm graduated in Software Engineering at <a href="https://www.ufc.br">Federal University of Ceará</a>.
 - 👨🏻‍🎓 I'm currently studying a postgraduate degree in Technical Leadership at <a href="https://faculdadefullcycle.edu.br">Full Cycle Faculty of Technology</a>.
-- 🔭 I’m currently working as Senior Software Delevoper at [Compass.uol](https://compass.uol).
+- 🔭 I’m currently working as Senior Software Developer at [Compass.uol](https://compass.uol).
 - 🌱 I’m learning about cloud computing (especially AWS) and Clean Architecture.
 - 👨‍💻 I'm a technology enthusiast and I'm always open to collaborating on innovative projects and ideas.
 - 💬 Ask me about `[Git, Node, Typescript, Vue, Javascript, Docker, AWS]`.
@@ -86,7 +86,7 @@
 <br/>
 
 <h1 align="center">
-  More aboute me <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="48px">
+  More about me <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="48px">
 </h1>
 
 <p align="center">
