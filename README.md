@@ -120,32 +120,6 @@
   <a href="https://t.me/caio_weliton">
     <img alt="Telegram" src="https://img.shields.io/badge/-@caio_weliton-0088CC?style=flat-square&logo=Telegram&logoColor=white" />
   </a>
-<<<<<<< HEAD
-</p>
-
-<br/>
-
-<h1 align="center">
-  My Contribution Calendar (Snake Game Version) <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/CZ9n27PNIqAAAAAi/calendario-calendar.gif" width="48px">
-</h1>
-
-<p align="center">
-  <img alt="Contribution animated" src="https://github.com/caiowf/caiowf/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<br/>
-
-<h1 align="center">
-  More about me <img align="center" alt="All rights reserved to Tenor (https://tenor.com)" src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="48px">
-</h1>
-
-<p align="center">
-  <img alt="QRCode for my resume" src="https://i.imgur.com/LrsH7s5.png" width="200px"/>
-</p>
-<p align="center"> or </p>
-<p align="center">
-=======
->>>>>>> 82d6a34 (refactor: :lipstick: remodel profile README with data from caioweliton.dev (EN + PT))
   <a href="https://www.caioweliton.dev">
     <img alt="Website" src="https://img.shields.io/badge/-www.caioweliton.dev-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
