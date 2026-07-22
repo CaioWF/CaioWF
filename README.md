@@ -8,14 +8,11 @@
   </a>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle"><kbd><img src="https://komarev.com/ghpvc/?username=CaioWF&color=blueviolet&label=Profile+views" alt="CaioWF profile views" /></kbd></td>
-      <td valign="middle"><kbd><a href="README.md" title="English">🇺🇸</a> | <a href="README_PT_BR.md" title="Brazilian Portuguese">🇧🇷</a></kbd></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <kbd><img src="https://komarev.com/ghpvc/?username=CaioWF&color=blueviolet&label=Profile+views" alt="CaioWF profile views" /></kbd>
+  &nbsp;
+  <kbd><a href="README.md" title="English">🇺🇸</a> | <a href="README_PT_BR.md" title="Brazilian Portuguese">🇧🇷</a></kbd>
+</p>
 
 <br/>
 
@@ -92,7 +89,7 @@
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%238B5CF6" height="22" align="center" alt="" /> GitHub Stats
 
 <div align="center">
-  <img height="165em" alt="CaioWF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWF&hide=java,objective-c&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="165em" alt="CaioWF's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioWF&hide=java,objective-c&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 <br/>
