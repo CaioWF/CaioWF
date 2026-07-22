@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;High-concurrency+back-ends;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+AWS;Technical+leadership+%26+Clean+Architecture" alt="Roles" />
-  </a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;High-concurrency+back-ends;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+AWS;Technical+leadership+%26+Clean+Architecture" alt="Roles" /></a>
 </p>
 
 <p align="center">
@@ -109,16 +107,7 @@
 ## <img src="https://api.iconify.design/lucide/link.svg?color=%238B5CF6" height="22" align="center" alt="" /> Find me
 
 <p align="center">
-  <a href="mailto:contato.caioweliton@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-contato.caioweliton@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/caio-weliton">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Caio%20Weliton-0072b1?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/caio_weliton">
-    <img alt="Telegram" src="https://img.shields.io/badge/-@caio_weliton-0088CC?style=flat-square&logo=Telegram&logoColor=white" />
-  </a>
-  <a href="https://www.caioweliton.dev">
-    <img alt="Website" src="https://img.shields.io/badge/-www.caioweliton.dev-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+  <a href="mailto:contato.caioweliton@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-contato.caioweliton@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/caio-weliton"><img alt="LinkedIn" src="https://img.shields.io/badge/-Caio%20Weliton-0072b1?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.caioweliton.dev"><img alt="Website" src="https://img.shields.io/badge/-www.caioweliton.dev-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
