@@ -25,7 +25,8 @@
 <img src="https://api.iconify.design/lucide/server.svg?color=%238B5CF6" height="16" alt="" />&nbsp; 6+ anos construindo **back-ends de alta concorrência**, cloud e arquitetura com **Node.js, TypeScript, NestJS e AWS**.<br/>
 <img src="https://api.iconify.design/lucide/building-2.svg?color=%238B5CF6" height="16" alt="" />&nbsp; **Dev Sênior na [Compass.uol](https://compass.uol)**: modernização de legado, pagamentos e microsserviços event-driven para uma base de 1M+ usuários.<br/>
 <img src="https://api.iconify.design/lucide/rocket.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Construindo o **[Keel](https://github.com/CaioWF/keel)**, scaffolder de desenvolvimento spec-driven zero-dependência para agentes de IA.<br/>
-<img src="https://api.iconify.design/lucide/sprout.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Aprendendo **Go** e IA aplicada a workflows de dev.<br/><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Magna Cum Laude em Engenharia de Software (UFC).<br/>
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Aprendendo **Go** e IA aplicada a workflows de dev.<br/><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Magna Cum Laude em Engenharia de Software (UFC), pós-graduação em Liderança Técnica na [Full Cycle](https://faculdadefullcycle.edu.br).<br/>
+<img src="https://api.iconify.design/lucide/pen-line.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Escrevo sobre software e IA em [caioweliton.dev/blog](https://www.caioweliton.dev/blog).<br/>
 <img src="https://api.iconify.design/lucide/smile.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Pronomes: Ele / Dele.<br/>
 <img src="https://api.iconify.design/lucide/coffee.svg?color=%238B5CF6" height="16" alt="" />&nbsp; Fora do trabalho: cozinhando, caminhando, zerando algum jogo e futebol.
 
